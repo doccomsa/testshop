@@ -22,8 +22,8 @@
 Thumbs.db
 
 # 환경 변수 파일
-application.properties
-application.yml
+#application.properties
+#application.yml
 # .env  # 필요시 추가 가능
 
 # IntelliJ 관련
