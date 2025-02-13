@@ -1,0 +1,47 @@
+# STS, Eclipse 관련 파일
+/.settings/
+/.project
+/.classpath
+/.idea/
+/.vscode/
+
+# 빌드 결과물 및 의존성 관련
+/target/
+/mvnw
+/mvnw.cmd
+/.mvn/
+
+# 로그 및 임시 파일
+/logs/
+*.log
+*.tmp
+*.swp
+
+# OS별 임시 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수 파일
+application.properties
+application.yml
+# .env  # 필요시 추가 가능
+
+# IntelliJ 관련
+*.iml
+/out/
+/.idea/
+
+# Lombok 캐시
+.lombok/
+
+# Node 관련 파일 (프론트엔드 포함 시)
+/node_modules/
+/npm-debug.log
+/yarn.lock
+
+# Docker 관련
+/.dockerignore
+
+# 기타 필요 없는 파일
+/test-output/
+/.pytest_cache/
